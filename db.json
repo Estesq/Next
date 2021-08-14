@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "google-oauth2|101526938005719603113",
+      "uid": "google-oauth2|101526938005719603113",
+      "sub": "google-oauth2|101526938005719603113",
+      "given_name": "शिव",
+      "family_name": "मावळा",
+      "nickname": "shivmavala1006",
+      "name": "शिव मावळा",
+      "picture": "https://lh3.googleusercontent.com/a/AATXAJzPQ-HrigpSOPr-IssajzrZ8YlORwD7qIBWUZZb=s96-c",
+      "locale": "en",
+      "updated_at": "2021-06-08T07:17:11.544Z",
+      "email": "shivmavala1006@gmail.com",
+      "email_verified": true,
+      "identities": [
+        "google-oauth2|108850971522065794539"
+      ]
+    },
+    {
+      "id": "email|60c47a7f80e860a01a4a1b09",
+      "email": "devhackzone@gmail.com",
+      "email_verified": false,
+      "uid": "email|60c47a7f80e860a01a4a1b09"
+    }
+  ],
+  "items": []
+}
